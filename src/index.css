@@ -1,0 +1,36 @@
+.active {
+    font-weight: bold;   
+    color: black;
+    text-decoration: none;
+}
+
+.inactive {
+    color:black;
+    text-decoration: none;
+}
+
+img {
+    width: 300px;
+}
+
+#select-input {
+    width: 25%;
+}
+
+#select-details-input {
+    width: 10%;
+}
+
+#select-cart-input {
+    width: 60px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}

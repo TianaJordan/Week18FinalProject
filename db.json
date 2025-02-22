@@ -1,0 +1,88 @@
+{
+  "cart": [
+    {
+      "productId": 1,
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "productId": 2,
+      "quantity": 2,
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Dried Lavender & Oak",
+      "image": "https://images.pexels.com/photos/11188239/pexels-photo-11188239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "This is a woody scent.",
+      "notes": "Top notes: White Peppercorn, Lavender, Bergamot. Middle notes: Davana, White Flowers, Moss. Base notes: Vanilla, Patchouli, Cedarwood. Top note is the initial impression of the fragrance, middle note is the main body of the scent, and base is its final impression.",
+      "fragranceType": "Woody",
+      "price": 30,
+      "weight": "22oz",
+      "wax": "Soy",
+      "quantityInStock": 92,
+      "id": 1
+    },
+    {
+      "name": "White Gardenia",
+      "image": "https://images.pexels.com/photos/11188239/pexels-photo-11188239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "This is a floral scent.",
+      "notes": "Top notes: Peach, Berry, Clove. Middle notes: Gardenia, Jasmine, Lily, Freesia. Base notes: Musk, Woody Notes. Top note is the initial impression of the fragrance, middle note is the main body of the scent and base is its final impression.",
+      "fragranceType": "Floral",
+      "price": 13,
+      "weight": "4.3oz",
+      "wax": "Soy",
+      "quantityInStock": 2,
+      "id": 2
+    },
+    {
+      "name": "Clean Cotton",
+      "image": "https://images.pexels.com/photos/11188239/pexels-photo-11188239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "This is a fresh and clean scent.",
+      "notes": "Top notes: Ozone, Leafy Greens, Bergamot. Middle notes: Lily of the Valley, Rose. Base notes: Vetiver, Cedar, Musk, Woody Notes. Top note is the initial impression of the fragrance, middle note is the main body of the scent and base is its final impression.",
+      "fragranceType": "Fresh & Clean",
+      "price": 24.99,
+      "weight": "14.5oz",
+      "wax": "Soy",
+      "quantityInStock": 97,
+      "id": 3
+    },
+    {
+      "name": "Cranberry Chutney",
+      "image": "https://images.pexels.com/photos/11188239/pexels-photo-11188239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "This is a fruity scent.",
+      "notes": "Top notes: Ripened Raspberry, Strawberry Leaf. Middle notes: Cranberry, Black Cherry. Base notes: Iris, Orange Flower. Top note is the initial impression of the fragrance, middle note is the main body of the scent and base is its final impression.",
+      "fragranceType": "Fruity",
+      "price": 30,
+      "weight": "22oz",
+      "wax": "Soy",
+      "quantityInStock": 68,
+      "id": 4
+    },
+    {
+      "name": "Amber & Sandalwood",
+      "image": "https://images.pexels.com/photos/11188239/pexels-photo-11188239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "This is a sweet and spicy scent.",
+      "notes": "Top notes: Pepper, Tonka Bean, Cardamom. Middle notes: Caramel, Lavender, Amber. Base notes: Cedarwood, Sandalwood, Vanilla, Patchouli. Top note is the initial impression of the fragrance, middle note is the main body of the scent and base is its final impression.",
+      "fragranceType": "Sweet & Spicy",
+      "price": 24.99,
+      "weight": "14.5oz",
+      "wax": "Soy",
+      "quantityInStock": 29,
+      "id": 5
+    },
+    {
+      "name": "Sage & Citrus",
+      "image": "https://images.pexels.com/photos/11188239/pexels-photo-11188239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "This is a citrus scent.",
+      "notes": "Top notes: Herbaceous, Lavender, Citrus. Middle notes: Geranium, Lavender. Base notes: Patchouli, Powdery Notes, Musk, Woody Notes. Top note is the initial impression of the fragrance, middle note is the main body of the scent and base is its final impression.",
+      "fragranceType": "Citrus",
+      "price": 13,
+      "weight": "22oz",
+      "wax": "Soy",
+      "quantityInStock": 40,
+      "id": 6
+    }
+  ]
+}
